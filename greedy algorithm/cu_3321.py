@@ -9,4 +9,9 @@
 # menus = [dough_cal/dough]
 
 my_list = ['a', 'b', 'c', 'd']
-print(my_list+['a', 'a', 'a', 'a'])
+print(my_list)
+for i in my_list:
+    tmp = []
+    for j in range(len(my_list)):
+
+정렬, 중복
