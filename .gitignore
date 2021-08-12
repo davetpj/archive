@@ -129,3 +129,8 @@ dmypy.json
 .pyre/
 .vscode
 .DS_Store
+DATA
+data_in
+data_out
+data_outtransformer_kor
+dataset
