@@ -40,3 +40,6 @@ print(n)
 #         result += n_list[-2]
 #         count+=1
 # print(result)
+
+# 1. predict()
+# 2. trainable = False
